@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+chatenv/
+Include/
+Lib/
+Scripts/
+venv/
+etc/
+share/
+pyvenv.cfg
